@@ -17,7 +17,7 @@ A beautiful, responsive weather application built with React, TypeScript, and Ta
 
 ## Live Demo
 
-Visit the live application: [Modern Weather App](https://lucky-dodol-69285a.netlify.app)
+Visit the live application: [Modern Weather App](https://sprightly-naiad-9e3ba5.netlify.app/)
 
 ## Technology Stack
 
